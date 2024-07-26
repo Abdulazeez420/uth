@@ -1,0 +1,30 @@
+name: uth_task
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  firebase_auth: 
+  cloud_firestore: 
+  firebase_core:
+  fl_chart: ^0.36.0
+  pdf: 
+  printing: 
+  table_calendar:
+  get_storage: ^2.1.1
+  jiffy: ^6.3.1
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

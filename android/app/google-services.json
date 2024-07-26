@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704219314224",
+    "project_id": "uthtask-aba8f",
+    "storage_bucket": "uthtask-aba8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704219314224:android:1308ad5d3f182aac53d5f5",
+        "android_client_info": {
+          "package_name": "com.example.uth_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUFv5rkM40dzrEkC7izOQNF6kR4808Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
